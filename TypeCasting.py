@@ -8,7 +8,7 @@
 
 # Lets get to it shall we ?
 
-name = " Andy Alonso"
+name = "Andy Alonso"
 age = 23
 gpa = 3.88
 is_student = True
@@ -80,8 +80,37 @@ print()
 
 age += "1"
 print(age)
+print()
 
 # what do you think will happen???
 # run it...
 # WOA I AINT THAT OLD MAN WTF LMAOOOO
-#  
+# oh wait its still a float because of the other formatting soo ig i aint that old then huh LOL
+#  so now im 23.01 years old...nice :))
+
+# SO
+# Strings and Numbers behave different
+# with numbers
+# it can be used them within arithmetic Exoressions
+# Strings... 
+# not so much
+
+# Now its time to take our variable name and typecast it to a boolean
+
+name = bool(name)
+print(name)
+
+# for this it gives a different response  
+# if you typecast your string of text into a boolean
+# NO MATTER WHAT 
+# IF IT HAS ANY TEXT
+# OF ANY KIND
+# ...it becomes true...See?
+# and remember
+# Boolean can ONLY Display either
+# True
+# or
+# False
+# so if it has text? Its True
+# If theres NO text? Its False
+# SIMPLE AS IT IS 
