@@ -29,6 +29,7 @@ print(f"here at Andys Pizzeria we have been opened for {years} years")
 - TypeCasting → The Process of converting a variable from 1 data to another
   - really useful for User Input
 # U
+- input() → A Function that prompts the user to enter data Returns the entered data as a string
 # V
 # W
 # X
